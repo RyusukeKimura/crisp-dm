@@ -1,4 +1,5 @@
 
 .DS_Store
-.ipynb_checkpoints/*
+./crisp-dm-template/ipynb_checkpoints/*
+./crisp-dm-in-action/ipnb_checkpoints/*
 *.csv
