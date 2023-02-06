@@ -11,7 +11,3 @@ You can find CRISP-DM template in `./crisp-dm-template`. You can also find CRISP
 ## WBS(Work Breakdown Structure)
 
 [Here](https://docs.google.com/spreadsheets/d/1vcWkR-bk_Dbst08mRyCxbPz7hDmYry6JjJgVtGnvrnY/edit?usp=sharing) is a template of CRISP-DM WBS.
-
-## Author
-
-Ryusuke Kimura
