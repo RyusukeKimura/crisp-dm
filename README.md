@@ -14,4 +14,4 @@ You can find CRISP-DM template in `./crisp-dm-template`. You can also find CRISP
 
 ## Author
 
-Ryusuke Kimura
+R.Kimura
